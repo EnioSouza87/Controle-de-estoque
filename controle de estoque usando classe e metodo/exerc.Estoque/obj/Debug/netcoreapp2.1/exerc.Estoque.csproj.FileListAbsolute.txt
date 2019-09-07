@@ -1,0 +1,11 @@
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\bin\Debug\netcoreapp2.1\exerc.Estoque.deps.json
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\bin\Debug\netcoreapp2.1\exerc.Estoque.runtimeconfig.json
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\bin\Debug\netcoreapp2.1\exerc.Estoque.runtimeconfig.dev.json
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\bin\Debug\netcoreapp2.1\exerc.Estoque.dll
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\bin\Debug\netcoreapp2.1\exerc.Estoque.pdb
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\obj\Debug\netcoreapp2.1\exerc.Estoque.csprojAssemblyReference.cache
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\obj\Debug\netcoreapp2.1\exerc.Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\obj\Debug\netcoreapp2.1\exerc.Estoque.AssemblyInfoInputs.cache
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\obj\Debug\netcoreapp2.1\exerc.Estoque.AssemblyInfo.cs
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\obj\Debug\netcoreapp2.1\exerc.Estoque.dll
+C:\Users\Enio\Desktop\CURSO DE LINGUAGEM EM C#\SEÇÃO 4-CLASSES ATRIBUTOS MÉTODOS MEMBROS ESTÁTICOS\CLASSES E MÉTODOS\exerc.Estoque\exerc.Estoque\obj\Debug\netcoreapp2.1\exerc.Estoque.pdb
